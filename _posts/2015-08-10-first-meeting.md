@@ -5,4 +5,4 @@ title: Meetup event
 rsvp: http://procatinator.com/
 ---
 
-You should add things here.
+RSVP For the first Maptime PSU meeting
