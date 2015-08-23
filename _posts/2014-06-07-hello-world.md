@@ -1,7 +1,17 @@
 ---
 layout: post
-title: Hello world
+title: First meeting!
 ---
 
-Replace this post with an introduction to your MapTime meetup! Posts
-are written in [Markdown](https://guides.github.com/features/mastering-markdown/).
+We're the State College chapter of Maptime! We meet every month at The New Leaf Initiative in downtown State College. Everyone is invited - entrepreneurs, passionate community organizers, engaged businesses, motivated students, determined local government and more. 
+
+
+This Fall we have three meetings:
+
+September Monday 14th: Drawing paper maps!
+
+October Wednesday 14th: TBD
+Also: Earth Science Week (14th - 17th) and New Leaf Entrepreneurship Week
+
+November Tuesday 17th: TBD
+Also: Geography Awareness Week (15th - 21st), GIS Day (18th), and International Map Day 16th
