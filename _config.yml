@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /university-park
 permalink: pretty
 markdown: kramdown
 paginate: 5
@@ -6,5 +6,5 @@ repo: starter
 github_org: maptime
 maptime:
   chapter: Maptime State College
-  twitter: MaptimeState
+  twitter: MaptimeSCE
   #disqus: YOUR DISQUS USERNAME
