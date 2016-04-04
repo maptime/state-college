@@ -1,4 +1,4 @@
-baseurl: /university-park
+baseurl: /state-college
 permalink: pretty
 markdown: kramdown
 paginate: 5
